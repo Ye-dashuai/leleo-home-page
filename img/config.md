@@ -2,14 +2,14 @@
 const config = {
   //网页元数据
   metaData:{
-    title: 'Leleo的个人主页🎉',
-    description: '欢迎来到Leleo的奇妙世界！',
+    title: 'YE的个人主页🎉',
+    description: '欢迎来到YE的奇妙世界！',
     keywords: 'Leleo,leleo,个人主页,个人网站',
     icon: '/favicon.ico'   //网页图标，支持外链
   },
 
   avatar: "/img/avatar.jpg", // 头像
-  welcometitle: "Hi, I'm Leleo", // 标题
+  welcometitle: "Hi, I'm YE", // 标题
 
   // 颜色配置
   color: {
@@ -54,8 +54,8 @@ const config = {
 
   //社交按钮，图标使用mdi图标（https://pictogrammers.com/library/mdi/），复制图标名称即可
   socialPlatformIcons: [
-    {icon:"mdi-github",link:"https://www.github.com/leleo886"},
-    {icon:"mdi-email",link:"mailto:leleo886@foxmail.com"},
+    {icon:"mdi-github",link:"https://github.com/Ye-dashuai"},
+    {icon:"mdi-email",link:"https://mail.qq.com/cgi-bin/frame_html?sid=KIqunaPI8oNMYCdP&r=18ad4b53d9e6ba0caa3c13b7b62e10bc&lang=zh"},
     {icon:"mdi-qqchat",link:"https://im.qq.com/"},
     {icon:"mdi-wechat",link:"https://wx.qq.com/"},
     {icon:"mdi-youtube",link:"https://www.youtube.com"},
